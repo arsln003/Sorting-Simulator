@@ -26,6 +26,3 @@ This project is a console-based Sorting Simulator developed in C++. It allows us
 
 ## Summary
 The Sorting Simulator is an educational tool aimed at helping users understand and compare sorting algorithms. It’s ideal for students and learners exploring algorithm efficiency in practice.
-
-## License
-Open-source project. Free to use and modify with credit to the authors.
